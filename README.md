@@ -37,5 +37,5 @@ The following Python libraries were used:
 # Code
 The codes used for the analysis are available under the ["Scripts"](https://github.com/petermaci/Berlin-AirBnB/tree/main/03%20Scripts) folder.
 
-# Final Report
-The [final report](https://github.com/petermaci/Instacart-Analysis-analyzing-shopping-behavior-/blob/main/05%20Sent%20to%20client/Final_Report.xlsx) details the steps undertaken to analyze the dataframes and includes a Tableau presentation of the findings and how to proceed with further projects. 
+# Presentation
+The [presentation](https://public.tableau.com/app/profile/peter5313/viz/AirBnBBerlin-RentalDataAnalysis/AirBnBBerlin?publish=yes) details a general overview of the steps undertaken to analyze the dataframes and includes a Tableau presentation of the findings and how to proceed with further projects. 
