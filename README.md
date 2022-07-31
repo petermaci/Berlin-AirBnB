@@ -1,2 +1,2 @@
 # Berlin-AirBnB
-This repository investigates the AirBnB data available for Berlin, Germany. 
+Data analysis of AirBnB rental data available for Berlin, Germany. 
